@@ -1,6 +1,6 @@
 # SageMaker Training & Inference の basic Hands-on の会場はこちらです🦊
 
-## 本ハンズオンのお品書き
+## 本ハンズオンのお品書き（目指せ筋肉モリモリ！）
 - 【前菜】SageMaker Training と Inference の全体像
 - 【肉 1】SageMaker Training - 座学編
 - 【肉 2】SageMaker Training - ハンズオン編
