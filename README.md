@@ -8,7 +8,7 @@
 - 【魚 2】SageMaker Inference - ハンズオン編
 - 【お持ち帰り用デザート（肉）】SageMaker Training と Inference の応用編
 
-***※ SageMaker の機能を表現するために一部過剰な表現が含まれていることがあります。予めご了承ください。***
+***※ SageMaker の機能をわかりやすく説明するために一部過剰な表現が含まれていることがあります。予めご了承ください。***
 
 ## Hands-on 開始前の事前準備
 1. AWS マネジメントコンソールにて、SageMaker Studio または Notebook instance を立ち上げます。
