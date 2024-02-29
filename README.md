@@ -13,4 +13,4 @@
 ## Hands-on 開始前の事前準備
 1. AWS マネジメントコンソールにて、SageMaker Studio または Notebook instance を立ち上げます。
 2. JupyterLab を開き、本 repo を clone します。
-3. upyterLab で sagemaker_training_inference.ipynb ファイルを開いてください。
+3. JupyterLab で sagemaker_training_inference.ipynb ファイルを開いてください。
